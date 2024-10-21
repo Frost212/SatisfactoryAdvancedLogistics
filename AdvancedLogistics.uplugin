@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"Version": 0,
 	"VersionName": "0.3.8",
-    "SemVersion": "0.3.8",
+	"SemVersion": "0.3.8",
 	"FriendlyName": "Advanced Logistics",
 	"Description": "Adds a ratio adjustable splitter and merger",
 	"Category": "Modding",
@@ -15,11 +15,12 @@
 	"IsBetaVersion": false,
 	"IsExperimentalVersion": false,
 	"Installed": false,
-    "Plugins": [
-        {
-            "Name": "SML",
-            "SemVersion": "^3.4.1",
-            "Enabled": true
-        }
-    ]
+	"Plugins": [
+		{
+			"Name": "SML",
+			"SemVersion": "^3.8.0",
+			"Enabled": true
+		}
+	],
+	"GameVersion": ">=365306"
 }
